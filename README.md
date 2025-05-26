@@ -13,8 +13,8 @@ A complete pipeline to detect and classify streaks (satellites/debris) and stars
 
 ```
 ├── assessment1.ipynb # Colab notebook with full implementation
-├── Assessment_Response.docx # Four-page Word document with detailed answers
-├── Assessment_Package.zip # ZIP of all files for submission
+├── Assessment_Response.docx # Two-page Word document with detailed answers
+├── assessment.zip # ZIP of all files for submission
 ├── data/ #this should be present in your google drive
 │ ├── raw/ # Original 35 synthetic images
 │ └── augmented/ # Generated augmented images
